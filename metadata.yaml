@@ -1,0 +1,32 @@
+_repo: The-Battle-of-Hexham-or-Days-of-Old--a-play-in-three-acts_36515
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colman, George
+    aliases:
+    - Colman, George, the younger
+    - Coleman, George
+    - Griffinhoof, Arthur
+    birthdate: 1762
+    deathdate: 1836
+    gutenberg_agent_id: '31335'
+    url: http://www.gutenberg.org/2009/agents/31335
+    wikipedia: http://en.wikipedia.org/wiki/George_Colman_the_Younger
+description: ''
+gutenberg_issued: '2011-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Margaret, of Anjou, Queen, consort of Henry VI, King of England, 1430-1482
+  -- Drama'
+title: 'The Battle of Hexham; or, Days of Old: a play in three acts'
+url: http://www.gutenberg.org/ebooks/36515
